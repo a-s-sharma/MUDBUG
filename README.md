@@ -1,2 +1,2 @@
 # MUDBUG
-Multi-Use Data acquisition Biosensor Unit development Group
+Multi-Use Data acquisition Bio Unit development Group
